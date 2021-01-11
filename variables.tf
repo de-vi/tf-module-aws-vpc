@@ -26,6 +26,6 @@ variable "tags" {
 }
 
 variable "name" {
-  default = ""
+  type = string
 }
 
